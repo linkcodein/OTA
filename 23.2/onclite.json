@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1783816318",
+      "filename": "lineage-23.2-20260712-HADADRELEASE-onclite.zip",
+      "id": "c7dee86ddcf65555733f059d3f8a706a4f95039348fc672745aa93684ae58950",
+      "romtype": "HADADRELEASE",
+      "size": "1349974667",
+      "url": "https://github.com/linkcodein/OTA/releases/download/2026-07-12/lineage-23.2-20260712-HADADRELEASE-onclite.zip",
+      "version": "23.2"
+    }
+  ]
+}
