@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1784218504",
-      "filename": "lineage-23.2-20260716-HADADRELEASE-onclite.zip",
-      "id": "bef3ead17e535e69705e75d44b82ae22043e9a4e872bf765ae6ae8425aa0af61",
+      "datetime": "1784510760",
+      "filename": "lineage-23.2-20260720-HADADRELEASE-onclite.zip",
+      "id": "ffd24cceeee7d43034bf983668a345a79186947f3513366d3ddc28e3b5d363b4",
       "romtype": "HADADRELEASE",
-      "size": "1350093062",
-      "url": "https://github.com/linkcodein/OTA/releases/download/2026-07-16/lineage-23.2-20260716-HADADRELEASE-onclite.zip",
+      "size": "1350091317",
+      "url": "https://github.com/linkcodein/OTA/releases/download/2026-07-20/lineage-23.2-20260720-HADADRELEASE-onclite.zip",
       "version": "23.2"
     }
   ]
