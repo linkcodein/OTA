@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 0,
+    "datetime": 1790723267,
     "files": [
       {
-        "filename": "",
-        "os_patch_level": "",
+        "filename": "lineage-23.2-20260929-HADADRELEASE-onclite.zip",
+        "os_patch_level": "2026-09-01",
         "os_sdk_level": 36,
-        "ota_property_files": "",
-        "sha256": "",
-        "size": 0,
-        "url": ""
+        "ota_property_files": "metadata:69:326,metadata.pb:463:212",
+        "sha256": "75d45e2dd373800424c34ab0b3f1d56c0dfad4ca71af0d2c0387a8f7e984b6f2",
+        "size": 1356429958,
+        "url": "https://github.com/linkcodein/OTA/releases/download/2026-09-29/lineage-23.2-20260929-HADADRELEASE-onclite.zip"
       }
     ],
     "type": "HADADRELEASE",
