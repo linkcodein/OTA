@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1791341163,
+    "datetime": 1791686564,
     "files": [
       {
-        "filename": "lineage-24.0-20261007-HADADRELEASE-onclite.zip",
+        "filename": "lineage-24.0-20261011-HADADRELEASE-onclite.zip",
         "os_patch_level": "2026-10-01",
         "os_sdk_level": 37,
         "ota_property_files": "metadata:69:326,metadata.pb:463:212",
-        "sha256": "8fe2d8651cc689fd2a630c198e66e41852f764c1cc6ff60d912d69e3dfa2a680",
-        "size": 1393810915,
-        "url": "https://github.com/linkcodein/OTA/releases/download/2026-10-07/lineage-24.0-20261007-HADADRELEASE-onclite.zip"
+        "sha256": "d13de958d27e9cc9d612a23e642c8b2fd149c84fa3d0ea0267628bd1ed3643af",
+        "size": 1389164305,
+        "url": "https://github.com/linkcodein/OTA/releases/download/2026-10-11/lineage-24.0-20261011-HADADRELEASE-onclite.zip"
       }
     ],
     "type": "HADADRELEASE",
