@@ -9,7 +9,7 @@
         "ota_property_files": "metadata:69:326,metadata.pb:463:212",
         "sha256": "82d425ac3cd6b1fe2f738f4ed532fc4c49a4efc9ed056d7ec9333437fd6e1e61",
         "size": 1392539829,
-        "url": "https://github.com/linkcodein/OTA/releases/download/2026-10-28/lineage-24.0-20261028-HADADRELEASE-onclite.zip"
+        "url": "https://github.com/LineageOS-onc/android/releases/download/2026-10-28/lineage-24.0-20261028-HADADRELEASE-onclite.zip"
       }
     ],
     "type": "HADADRELEASE",
