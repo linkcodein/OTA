@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1794015168,
+    "datetime": 1794493145,
     "files": [
       {
-        "filename": "lineage-24.0-20261107-HADADRELEASE-onclite.zip",
+        "filename": "lineage-24.0-20261112-HADADRELEASE-onclite.zip",
         "os_patch_level": "2026-11-01",
         "os_sdk_level": 37,
         "ota_property_files": "metadata:69:326,metadata.pb:463:212",
-        "sha256": "cfa3ac285f9ccbfa152ffd43c1fdb94981cd2fe87571a00f398dc1ca056a1a73",
-        "size": 1392693158,
-        "url": "https://github.com/LineageOS-onc/android/releases/download/2026-11-07/lineage-24.0-20261107-HADADRELEASE-onclite.zip"
+        "sha256": "f43ca7a3024f640243c0f37509a3a880bd45c39509e30c1c3b94fe8954ab6fc9",
+        "size": 1392697599,
+        "url": "https://github.com/LineageOS-onc/android/releases/download/2026-11-12/lineage-24.0-20261112-HADADRELEASE-onclite.zip"
       }
     ],
     "type": "HADADRELEASE",
